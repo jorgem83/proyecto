@@ -1,0 +1,5 @@
+poner la clase a los botones para llamarlos a todos de la misma forma
+el id cambiarlo 
+
+
+parseInt($("btncomprar2").attr("data"))
