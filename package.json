@@ -1,9 +1,9 @@
 {
-    "name":"genesis",
+    "name":"index",
     "version": "0.0.0",
     "private":true,
     "scripts":{
-        
+        "start":"node servidor.js"
     },"dependencies":{
         "express": "^4.14.0"
     },
